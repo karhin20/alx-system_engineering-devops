@@ -1,7 +1,7 @@
 SHELL PERMISSION
 
   Requirement                                  Command
-Change User to betty                         su betty [enter]
+Change User to betty                         su betty
 
 
 
