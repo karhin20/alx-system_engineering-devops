@@ -14,3 +14,5 @@ echo "hello $USER"
 4. script that lists environment variables
  printenv
 
+5. script that lists all local variables and environment variables, and functions. 
+  set
